@@ -528,7 +528,7 @@ GameObject:
   - component: {fileID: 523637372}
   - component: {fileID: 523637371}
   m_Layer: 0
-  m_Name: 0
+  m_Name: Enemy Boss
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
