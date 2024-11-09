@@ -9,6 +9,9 @@ public class PlayerMove : MonoBehaviour
     private Animator anim;
     private bool grounding;
 
+    //float horizontal;
+    //float vertical;
+
     private void Awake()
     {
         //references for rb and animator from object
@@ -18,9 +21,16 @@ public class PlayerMove : MonoBehaviour
 
     private void Update()
     {
+
+       // horizontal = Input.GetAxis("Horizontal");
+       // vertical = Input.GetAxis("vertical");
+
         //flip the player when moving left to right
         float horizontalInput = Input.GetAxis("Horizontal");
         rb.velocity = new Vector2(Input.GetAxis("Horizontal") * speed, rb.velocity.y);
+        
+        
+        
 
         if (horizontalInput > 0.01f)
             transform.localScale = Vector3.one;
@@ -33,6 +43,8 @@ public class PlayerMove : MonoBehaviour
         //set animator parameters
         anim.SetBool("run", horizontalInput != 0);
         anim.SetBool("grounding", grounding);
+
+        
     }
 
     private void Jump()
