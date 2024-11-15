@@ -32,5 +32,5 @@ Stylized Textures Mini Set | 2D Nature | Unity Asset Store
   ___
 
 ## Drawings
-![Alt text](https://mohawk-game10016.slack.com/files/U07RJPLRYHG/F081GU0LFC1/level_1.jpg)
-![Alt text](https://mohawk-game10016.slack.com/files/U07RJPLRYHG/F080PMHFBPH/level_2.jpg)
+![Alt text](https://static.wixstatic.com/media/0f5850_f243744221fd4b4992a25908f0863bff~mv2.jpg)
+![Alt text](https://static.wixstatic.com/media/0f5850_83086e8d95d2422780d021c98b5cb3fc~mv2.jpg)
