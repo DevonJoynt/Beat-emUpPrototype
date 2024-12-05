@@ -1,4 +1,4 @@
-# Digital Prototype Development - Maze Runners Mini Game
+# Digital Prototype Development - Fire Game
 ## Design Rationale 
 What do you envision? ​
 A fast-paced fun and cooperative mechanic that involves puzzle like and critical problem solving to reach the end goal which is reuniting with the other player moving on to the next maze and continuing before the time runs out which is 60 sec.​
